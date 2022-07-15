@@ -88,5 +88,5 @@ The output flag saves your object tracker results as an avi file for you to watc
 
 There is a test video uploaded in the data/video folder called test.mp4. If you followed all the steps properly with the pretrained coco yolov3.weights model then when your run the object tracker wiht the first command above you should see the following.
 
-##Refernces
+#Refernces
 * [Deep sort yolov3 ](https://github.com/theAIGuysCode/yolov3_deepsort))
