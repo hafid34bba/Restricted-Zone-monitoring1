@@ -2,7 +2,7 @@
 
 detecting, counting and tracking people entering or leaving the prohibited area using Yolov3 and Deepsort using Yolov3 for object detection and Deep Sort for real time tracking
 
-![Demo of Object Tracker](image.png)
+![Idea description](image_desc.png)
 
 ## Getting started
 
